@@ -1,0 +1,45 @@
+body {
+	
+}
+
+header {
+	color:#777;
+	margin: 0;
+}
+
+section {
+	color: white;
+	margin: 5px;
+	padding: 10px;
+	
+}
+
+input {
+	border-radius: 4px;
+}
+
+input:hover {
+	font-size: 16px;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+
+button {
+	background: white;
+	border-radius: 8px;
+	transition-duration: 0.4s;
+}
+
+button:hover {
+	font-size: 16px;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	background-color: #72a8ff; 
+    color: white
+}
+
+aside {
+	background: #565a5b;
+	padding: 5px;
+	margin-left: 80%
+	
+}
